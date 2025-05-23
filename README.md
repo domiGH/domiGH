@@ -1,12 +1,12 @@
 ## Hi there 👋
-🔭 I’m currently working on proyectos del Colegio Científico Costarricense sede San Pedro 
-- 🌱 I’m currently learning física y astronomía
-- 👯 I’m looking to collaborate on proyectos que impulsen la buena educación
-- 🤔 I’m looking for help with entender nuevos temas de cosmología
-- 💬 Ask me about lo que sea
-- 📫 How to reach me: davv2609@gmail.com
+🔭 Yo actualmente estoy trabajando en proyectos del Colegio Científico Costarricense sede San Pedro 
+- 🌱 actualmente estudio física y astronomía
+- 👯 Estoy buscando ayudar en campañas que impulsen la buena educación
+- 🤔 Estoy buscando ayuda con entender nuevos temas de cosmología
+- 💬 Me puedes preguntar lo que sea
+- 📫 Contactame: davv2609@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: me gusta mucho estudiar
+- ⚡ Dato curioso: me gusta mucho estudiar
 -->
 
 <!--
